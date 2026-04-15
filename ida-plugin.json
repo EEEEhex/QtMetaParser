@@ -1,0 +1,11 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "QtMetaParser",
+    "entryPoint": "QtMetaParser.py",
+    "license": "MIT",
+    "urls": {
+      "repository": "https://github.com/EEEEhex/QtMetaParser"
+    }
+  }
+}
